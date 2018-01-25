@@ -4,10 +4,14 @@ Taffy is a boy that endured so many problems in his life. He has been bullied ba
 
 He eventually hide himself from the society by living in the middle of the forest, alone. Inside an abandoned house, he makes melodic drops that the world has never heard of. Until now.
 
-== Soundtrack
-
-Soundtrack can be heard on https://youtu.be/p1wdlGcvNKs[YouTube] or https://soundcloud.com/hdx13/taffy[SoundCloud]. Free download is available.
-
 == License
 
-This repo, story, and all of Taffy's music (the soundtrack of this story) are licensed under CC-BY-SA-4.0. It means, you can use any of the contents here in any media as long as you give credits to me.
+This repository, the story, and Taffy's music (the soundtrack) are licensed under CC-BY-SA-4.0. It means, you can use any of the contents here in any media as long as you give credits to me. At least like this:
+
+> Taffy by HDX13
+> Story		: https://github.com/HDX13-BeatCode/taffy  
+> Soundtracks	: https://soundcloud.com/hdx13/sets/taffy
+>     "Taffy"	: https://youtu.be/p1wdlGcvNKs[YouTube] | https://soundcloud.com/hdx13/taffy[SoundCloud] 
+
+
+

@@ -1,4 +1,4 @@
-= 01: Room
+= 01: Noises
 :showtitle:
 :next_section: 02
 
@@ -10,3 +10,6 @@ I step my foot onto the cold, freezing floor. .....
 
 After I completed my morning ritual (it is classified), there are two options. First, go back to bed and fall asleep for hours. Second, fire up my PC and start making more beats.
 
+One day, I went out for a little foraging. Then, there's this buzzing noise coming from above.
+
+UNtil a helicopter passed by and those bugs began destroying its tail
