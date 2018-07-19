@@ -15,5 +15,3 @@ This repository, the story, and Taffy's music (the soundtrack) are licensed unde
 > * "Taffy"	: https://youtu.be/p1wdlGcvNKs[YouTube] | https://soundcloud.com/hdx13/taffy[SoundCloud] <br/> 
 > * "FD2BE639" (unreleased): https://soundcloud.com/hdx13/fd2be639
 
-
-
