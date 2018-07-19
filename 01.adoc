@@ -1,4 +1,0 @@
-= 01: Pain
-:showtitle:
-:next_section: 02
-
