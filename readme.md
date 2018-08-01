@@ -8,6 +8,9 @@ For the story, it is currently written in two languages: English and Indonesia.
 
 Currently, this story is hosted in two sites: [GitHub] and [Penflip]. 
 
+[GitHub]: https://github.com/hdx13-beatcode/taffy
+[Penflip]: https://penflip.com/HDX13_BeatCode/Taffy
+
 * GitHub will be the alpha mirror and will receive the latest updates as soon as
   it is pushed, so it may be rough on the edges. Those "edges" may involve merge
   conflicts, grammar mistakes, drafts, and other garbage.
@@ -54,5 +57,3 @@ media as long as you give credits to me. At least like this:
 > * "Taffy": https://youtu.be/p1wdlGcvNKs | https://soundcloud.com/hdx13/taffy <br/> 
 > * "FD2BE639" (unreleased): https://soundcloud.com/hdx13/fd2be639 <br/>
 
-[GitHub]: https://github.com/hdx13-beatcode/taffy
-[Penflip]: https://penflip.com/HDX13_BeatCode/Taffy

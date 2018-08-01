@@ -9,6 +9,9 @@ sendiri akan ditulis dalam dua bahasa: Indonesia dan Inggris.
 
 Saat ini, cerita ini dipajang di dua situs: [GitHub] dan [Penflip].
 
+[GitHub]: https://github.com/hdx13-beatcode/taffy
+[Penflip]: https://penflip.com/hdx13_beatcode/taffy
+
 * GitHub adalah tempat dimana para pengembang perangkat lunak membagikan kode 
   sumbernya untuk dilihat orang lain. Tempat ini akan sering di-update, jadi
   bisa agak berantakan sedikit. Hal-hal yang mungkin "berantakan" adalah penanda
@@ -27,24 +30,26 @@ Segera
 
 ## Reading Guide
 
-Segera diterjemahkan
+Kita ambil contoh file berikut: 
+`00.md`, `00.id.md`, `01.md`, `11.md`, dan `12.id.md`.
 
-> We will be using these files for examples: 
-> `00.md`, `00.id.md`, `01.md`, `11.md`, and `12.id.md`.
-> 
-> * The numbering system uses hexadecimal format. This means number 10 is 
->   represented as `A`, 11 as `B`, 12 as `C`, until 15 as `F`. 0 is `0` here 
->   and will represent the prologue for the respective story/act.
-> * The first digit represents the act number. This means `00.md`, 
->   `00.id.md`, and `01.md` is in the prologue act. `11.md` and 
->   `12.id.md` belongs to the first act.
-> * The second digit represents the chapter number. Chapter 0 is a prologue 
->   chapter for the act. Sometimes, an act doesn't have a prologue (`*0.md`).
->   It doesn't matter much.
-> * The additional two-letter code is the language for the file. `*.id.md` means
->   it's in Indonesian. No additional codes means the file is written in English.
-> * The story is written in Markdown, an easy writing syntax that is easy to read
->   both as a text file or rendered in the web browser.
+* Sistem penomoran menggunakan format heksadesimal. Untuk angka 10 diwakilkan
+  dengan huruf `A`, 11 menjadi `B`, dan seterusnya hingga 15 menjadi `F`. Angka
+  0 dapat memiliki makna sebagai pendahuluan (prolog) cerita.
+* Digit pertama melambangkan nomor bagian. Sebuah bagian akan terdiri dari 
+  beberapa bab. Untuk bagian prolog, file yang termasuk di dalamnya adalah
+  `00.md`, `00.id.md`, dan `01.md`. File yang termasuk bagian pertama adalah
+  `11.md` dan `12.id.md`.
+* Digit kedua mewakili nomor bab dalam suatu bagian. Beberapa bagian mungkin
+  tidak mempunyai yang namamya bab 0 (prolog). Hal itu barangkali datang dari
+  penulis sendiri dan tidak akan mempengaruhi cerita. Mohon maklum.
+* Dua huruf yang ada di tengah (bukan yang di belakang) menandakan bahasa dari
+  bab/file tersebut. File yang berpola `*.id.md` berarti file tersebut ditulis
+  dalam bahasa Indonesia. Jika tidak ada tanda khusus, berarti dalam bahasa
+  Inggris. Mungkin bisa jadi bahan belajar bahasa Inggris. :)
+* Cerita ini ditulis dengan format Markdown (berakhiran `*.md`), yaitu sebuah
+  format penulisan yang mudah dibaca baik sebagai file teks maupun untuk
+  ditampilkan di dalam browser. Wattpad tidak memakai format ini.
 
 ## License and Credits
 
@@ -56,5 +61,5 @@ Misalnya seperti ini:
 >
 > Story: https://github.com/HDX13-BeatCode/taffy <br/> 
 > Soundtracks: https://soundcloud.com/hdx13/sets/taffy <br/>
-> * "Taffy": https://youtu.be/p1wdlGcvNKs[YouTube] | https://soundcloud.com/hdx13/taffy[SoundCloud] <br/> 
+> * "Taffy": https://youtu.be/p1wdlGcvNKs | https://soundcloud.com/hdx13/taffy <br/> 
 > * "FD2BE639" (unreleased): https://soundcloud.com/hdx13/fd2be639 <br/>
