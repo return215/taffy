@@ -62,4 +62,4 @@ Misalnya seperti ini:
 > Story: https://github.com/HDX13-BeatCode/taffy <br/> 
 > Soundtracks: https://soundcloud.com/hdx13/sets/taffy <br/>
 > * "Taffy": https://youtu.be/p1wdlGcvNKs | https://soundcloud.com/hdx13/taffy <br/> 
-> * "FD2BE639" (unreleased): https://soundcloud.com/hdx13/fd2be639 <br/>
+> * "Pain" : https://soundcloud.com/hdx13/pain <br/>
