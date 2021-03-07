@@ -2,6 +2,9 @@
 
 Also in: [Indonesian](readme.id.md)
 
+UPDATE: This repo is now archived. The contents have been migrated to one
+[unified project of all stories](https://github.com/return215/story-writes).
+
 Taffy is a web novel/music album project originally intiaied by @HDX13-BeatCode
 that features the story of a boy with musical talent, glowing hand, and
 self-control issues. This project was hosted in 
